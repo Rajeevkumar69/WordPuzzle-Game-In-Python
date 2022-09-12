@@ -1,6 +1,5 @@
 l1=["Father","Mother","Mango","Coding","Computer","Data","Market","Internet","Enjoy","Party","College","Music","Technology","Light","Traffic","Road","Police","Girl","Apple","Water","Orange","River","Valley","Pen","Job","Sky","Software","Chess","Mobile","Game","Black"]
 
-it=iter(l1)
 
 print('''\n\n\t\t"--Welome To Word Puzzle Game--"\n\t''')
 a=input("Enter Your Name:- ")
